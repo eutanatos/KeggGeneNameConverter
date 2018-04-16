@@ -1,0 +1,9 @@
+Ген GKN2:
+	hsa:200504	GKN2, BRICD1B, GDDR, PRO813, TFIZ1, VLTI465; gastrokine 2
+
+Ген LCC:
+	hsa:727676	SNORD118, LCC, U8; small nucleolar RNA, C/D box 118
+
+Ген TCC:
+	Совпадений не найдено
+
