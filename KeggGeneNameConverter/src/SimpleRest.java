@@ -159,7 +159,6 @@ public class SimpleRest {
 				saveResults(results, filePath, resultsFileName);
 				System.out.println("Результаты сохранены в файл " + filePath + resultsFileName);
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
         }
